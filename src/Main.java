@@ -12,5 +12,6 @@ public class Main {
 
         System.out.println(notas);
         System.out.println(notasFixas);
+        System.out.println(notasFixas);
     }
 }
